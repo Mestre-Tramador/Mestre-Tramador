@@ -1,0 +1,5 @@
+# Set Markdown as main language of Repository.
+*.md text diff=markdown linguist-language=Markdown linguist-detectable -linguist-documentation
+
+# Handle the rest of the files line endings
+* text=auto
