@@ -1,12 +1,13 @@
 ### ¡Sea bienvenido, mi hermano o hermana de código!
 
-Mi nombre es Eduardo de Oliveira Rosa, programador brasileño, en los días
-antigos conocido como "Mestre Tramador".
+Mi nombre es Eduardo de Oliveira Rosa, programador brasileño, en los días antigos
+conocido como "Mestre Tramador". La gata en mi hombro es Kyoshi, llamada así en
+homenaje a la [Avatar] del mismo nombre.
 
 <p align="center">
     <img
-        src="./images/mestre-tramador.jpg"
-        alt="Una foto de mi mismo"
+        src="./images/mestre-tramador-and-kyoshi.jpg"
+        alt="Una foto de mi mismo y mi gata"
         width="250"
         height="250"
     />
@@ -202,6 +203,7 @@ Si quieres hablar conmigo, revisa mis redes sociales abajo! Como se mencionó,
 - [![Discord](./badges/discord.svg)](https://discord.com/users/335813464079728650)
 - [![Itch.io](./badges/itch.io.svg)](https://mestre-tramador.itch.io/)
 
+[Avatar]: https://avatar.fandom.com/wiki/Kyoshi
 [English]: ./README.md
 [Português Brasileiro]: ./README.PT-BR.md
 [Centro Universitário FADERGS]: https://www.fadergs.edu.br/
