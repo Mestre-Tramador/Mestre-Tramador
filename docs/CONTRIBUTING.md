@@ -25,7 +25,7 @@ of course, check my social media [here][Social Media].
 
 By firsthand: **Currently all Pull Requests are going to be reject on this repository**.
 The motive is simple, I'm researching and doing some tests on how to implement
-the Github's Pull Requests Templates. After that, I'll allow only PRs that change
+the GitHub's Pull Requests Templates. After that, I'll allow only PRs that change
 files on the `docs/` folder.
 
 ## Other Contributions

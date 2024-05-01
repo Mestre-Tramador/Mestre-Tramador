@@ -1,6 +1,6 @@
 ### Seja bem vindo, meu irmão ou irmã do código!
 
-Meu nome é Eduardo de Oliveira Rosa, um programador brasileiro, nos dias antigos
+Meu nome é Eduardo de Oliveira Rosa, um programador brasileiro, nos velhos tempos
 conhecido como "Mestre Tramador". A gata em meu ombro é Kyoshi, nomeada em homenagem
 à [Avatar] homônima.
 
@@ -19,12 +19,18 @@ conhecido como "Mestre Tramador". A gata em meu ombro é Kyoshi, nomeada em home
 
 #### Sobre mim
 
-Tenho 23 anos, atualmente cursando Jogos Digitais no [Centro Universitário FADERGS],
-membro do Ecosistema Ânima; e trabalhando como um Desenvolvedor de Software Web na
-[Plugways Digital], uma empresa de software da minha cidade.
-Estou sempre pesquisando jeitos de melhorar o meu código ou planejando ideias de
-jogos e projetos para software, esses que talvez eu tente implementar, mas como veem,
-eu estou ainda aprendendo e achando meu rumo.
+Tenho 24 anos e finalmente consegui meu diploma de Tecnólogo em Jogos Digitais no
+[Centro Universitário FADERGS], membro do Ecossistema Ânima, que você pode ver [aqui][FADERGS].
+Atualmente trabalho como Desenvolvedor na plataforma [Workupy], um futuro hub no
+code para simplificar a criação de software.
+
+Atualmente estou realizando duas pós graduações pelo [CENES] (Centro de Estudos
+de Especialização e Extensão), sendo uma dessas em Algoritmos e Estruturas de Dados
+e a outra em Engenharia de Software.
+
+Eu pesquiso constantemente maneiras de melhorar minhas habilidades de codificação
+e também planejo ideias de jogos ou projetos, que talvez eu tente implementar, como
+eu digo, ainda estou tentando encontrar meu rumo.
 
 Sobre outros detalhes meus, eu sou um defensor do software livre e de código aberto,
 portanto todos os meus repositórios geralmente vêm com uma licença GNU, e no me
@@ -181,6 +187,8 @@ Sempre tenha fé no teu código, e obrigado por passar por aqui!
 ##### Gerenciador de Pacotes
 
 - [![npm](assets/badges/npm.svg)](https://www.npmjs.com/)
+- [![yarn](assets/badges/yarn.svg)](https://yarnpkg.com/)
+- [![pnpm](assets/badges/pnpm.svg)](https://pnpm.io/)
 - [![Composer](assets/badges/composer.svg)](https://getcomposer.org/)
 <!-- #endregion -->
 
@@ -234,7 +242,19 @@ Sempre tenha fé no teu código, e obrigado por passar por aqui!
 <!-- #region Servidores -->
 ##### Servidores
 
+<!-- #region Redes e Ambiente -->
+##### Redes e Ambiente
+
+- [![Docker](assets/badges/docker.svg)](https://www.docker.com/)
+<!-- #endregion -->
+
 - [![NGINX](assets/badges/nginx.svg)](https://www.nginx.com/)
+<!-- #endregion -->
+
+<!-- #region Máquinas Virtuais -->
+##### Máquinas Virtuais
+
+- [![VMware](assets/badges/vmware.svg)](https://www.vmware.com/)
 <!-- #endregion -->
 
 </details>
@@ -511,4 +531,6 @@ Sempre tenha fé no teu código, e obrigado por passar por aqui!
 [English]: ./README.md
 [Español]: ./README.ES.md
 [Centro Universitário FADERGS]: https://www.fadergs.edu.br/
-[Plugways Digital]: https://www.plugwaysdigital.com.br/
+[FADERGS]: ./data/academics/1-Jogos-Digitais/README.PT-BR.md
+[Workupy]: https://github.com/Workupy
+[CENES]: https://cenes.com.br/

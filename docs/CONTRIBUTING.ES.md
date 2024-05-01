@@ -27,7 +27,7 @@ en una conversación! Por supuesto, puede consultar mis redes sociales
 
 De primera mano: **Actualmente, todas las Pull Requests serán rechazadas en este
 repositorio**. El motivo es simple, estoy investigando y haciendo algunas pruebas
-sobre cómo implementar las plantillas de Pull Request de Github. Después de eso,
+sobre cómo implementar las plantillas de Pull Request de GitHub. Después de eso,
 solo permitiré Pull Requests que cambien archivos en la carpeta `docs/`.
 
 ## Otras Contribuciones

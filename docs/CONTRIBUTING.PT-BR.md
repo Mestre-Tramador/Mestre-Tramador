@@ -26,7 +26,7 @@ Você pode, claro, verificar minhas Redes Sociais [aqui][Redes Sociais].
 
 Em primeira mão: **Atualmente todos as Pull Requests serão rejeitadas neste
 repositório**. O motivo é simples, estou pesquisando e fazendo alguns testes sobre
-como implementar as Templates de Pull Requests do Github. Depois disso, permitirei
+como implementar as Templates de Pull Requests do GitHub. Depois disso, permitirei
 apenas PRs que alterem arquivos na pasta `docs/`.
 
 ## Outras Contribuições

@@ -10,11 +10,14 @@ Abaixo está uma explicação completa de cada um.
 
 Depois de ler sobre os padrões do [Keep a Changelog], adicionei-o imediatamente
 aos meus repositórios, a fim de melhorar a abrangência do meu código.
-Eu gosto dessa citação abaixo do site oficial (em inglês):
+Eu gosto dessa citação abaixo das [propostas][Keep a Changelog for Who] oficiais
+no site (em inglês):
 
 > \[...] Whether consumers or developers, the end users of software are human beings
 > who care about what's in the software. When the software changes, people want
 > to know why and how.
+
+\**Último acesso em 15/09/2023*
 
 ## CÓDIGO DE CONDUTA
 
@@ -30,6 +33,8 @@ dizem (em inglês):
 > people, gay, lesbian, queer, and/or transgender people, people of color, and
 > people of different religious backgrounds should be afforded the same rights
 > and privileges as everyone else.
+
+\**Último acesso em 15/09/2023*
 
 ## DIRETRIZES DE CONTRIBUIÇÃO
 
@@ -49,7 +54,7 @@ escolhi as seguintes como as minhas principais:
 - [Creative Commons Attribution Share Alike 4.0 International][CC BY-SA 4.0] para
   projetos de assets;
 
-**Outros projetos meus podem ter outras licenças, mas são uma minoria*.
+\**Outros projetos meus podem ter outras licenças, mas são uma minoria*.
 
 ## POLÍTICA DE SEGURANÇA
 
@@ -75,7 +80,7 @@ Atualmente uso, de Templates de Issue, as seguintes:
 
 O uso delas varia de acordo com o repositório.
 
-**Eu atualmente ainda não implementei nenhuma Template de Pull Request*.
+\**Eu atualmente ainda não implementei nenhuma Template de Pull Request*.
 
 O GitHub também oferece o serviço [GitHub Pages], basicamente permitindo criar
 páginas estáticas para os repositórios. Atualmente, estou trabalhando no minha
@@ -84,6 +89,7 @@ primeira [neste][CV] repositório.
 [English]: README.md
 [Español]: README.ES.md
 [Keep a Changelog]: https://keepachangelog.com/en/1.1.0/
+[Keep a Changelog for Who]: https://keepachangelog.com/en/1.1.0/#who
 [Contributor Covenant]: https://www.contributor-covenant.org/
 [Contributor Covenant FAQ]: https://www.contributor-covenant.org/faq#doesnt-this-code-of-conduct-just-promote-political-correctness
 [SECURITY POLICY]: #política-de-segurança

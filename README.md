@@ -1,6 +1,6 @@
 ### Be welcome, my brother or sister of code!
 
-My name is Eduardo de Oliveira Rosa, a Brazilian programmer, in the old days known
+My name is Eduardo de Oliveira Rosa, a Brazilian programmer, in the old times known
 as "Mestre Tramador". The cat at my shoulder is Kyoshi, named after the namesake
 [Avatar].
 
@@ -21,12 +21,18 @@ as "Mestre Tramador". The cat at my shoulder is Kyoshi, named after the namesake
 
 #### About Me
 
-I'm 23, currently studying the "Jogos Digitais" college degree at "[Centro
-Universitário FADERGS]", member of Ânima Ecosystem; and working as a Web Software
-Developer at [Plugways Digital], a Software Company on my city. I'm always researching
-on ways to improve my code and planning games or projects ideas for softwares,
-those I maybe will try to implement, as you see, I am still learning and finding
-my way.
+I'm 24 years old and I finally got my "Jogos Digitais" college degree at "[Centro
+Universitário FADERGS]", member of Ânima Ecosystem, which you check [here][FADERGS].
+Currently I'm working as a Developer on the [Workupy] platform, a future no code
+hub to simplify software creation.
+
+I am currently undertaking two postgraduate degrees at "[CENES]" ("Centro de Estudos
+de Especialização e Extensão"), one of which is in "Algoritmos e Estruturas de Dados"
+and the other in "Engenharia de Software".
+
+I research constantly on ways to improve my coding skills and also plan on games
+or projects ideas, those I maybe will try to implement, as I say, I am still
+trying to find my way.
 
 About other details of myself, I am a defensor of open source and free softwares,
 so all of my repositories generally comes with a GNU License, and on my free time
@@ -183,6 +189,8 @@ Always have faith in your code, and thanks for passing by!
 ##### Package Manager
 
 - [![npm](assets/badges/npm.svg)](https://www.npmjs.com/)
+- [![yarn](assets/badges/yarn.svg)](https://yarnpkg.com/)
+- [![pnpm](assets/badges/pnpm.svg)](https://pnpm.io/)
 - [![Composer](assets/badges/composer.svg)](https://getcomposer.org/)
 <!-- #endregion -->
 
@@ -233,10 +241,22 @@ Always have faith in your code, and thanks for passing by!
   Infra
 </summary>
 
+<!-- #region Network and Environment -->
+##### Network and Environment
+
+- [![Docker](assets/badges/docker.svg)](https://www.docker.com/)
+<!-- #endregion -->
+
 <!-- #region Servers -->
 ##### Servers
 
 - [![NGINX](assets/badges/nginx.svg)](https://www.nginx.com/)
+<!-- #endregion -->
+
+<!-- #region Virtual Machines -->
+##### Virtual Machines
+
+- [![VMware](assets/badges/vmware.svg)](https://www.vmware.com/)
 <!-- #endregion -->
 
 </details>
@@ -510,7 +530,9 @@ Always have faith in your code, and thanks for passing by!
 </p>
 
 [Avatar]: https://avatar.fandom.com/wiki/Kyoshi
-[Español]: README.ES.md
-[Português Brasileiro]: README.PT-BR.md
+[Español]: ./README.ES.md
+[Português Brasileiro]: ./README.PT-BR.md
 [Centro Universitário FADERGS]: https://www.fadergs.edu.br/
-[Plugways Digital]: https://www.plugwaysdigital.com.br/
+[FADERGS]: ./data/academics/1-Jogos-Digitais/README.md
+[Workupy]: https://github.com/Workupy
+[CENES]: https://cenes.com.br/

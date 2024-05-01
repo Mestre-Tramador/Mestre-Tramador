@@ -8,8 +8,20 @@ O formato é baseado em [Keep a Changelog], e esse projeto adere à [Semantic Ve
 
 ## [Não Publicado]
 
-- Arquivos de Templates de Pull Request
+- ...
+
+## [2.0.0] - 2024-05-01
+
+### Adicionado
+
 - Arquivo CODEOWNERS
+- GitHub Issues
+- Mais badges
+
+### Outro
+
+- Link para meu diploma em "Jogos Digitais"
+- Agora tenho 24 anos!
 
 ## [1.0.0] - 2023-04-23
 
@@ -34,5 +46,6 @@ O formato é baseado em [Keep a Changelog], e esse projeto adere à [Semantic Ve
 [Semantic Versioning]: https://semver.org/spec/v2.0.0.html
 [English]: CHANGELOG.md
 [Español]: CHANGELOG.ES.md
-[Não Publicado]: https://github.com/Mestre-Tramador/Mestre-Tramador/compare/v1.0.0...HEAD
+[Não Publicado]: https://github.com/Mestre-Tramador/Mestre-Tramador/compare/v2.0.0...HEAD
+[2.0.0]: https://github.com/Mestre-Tramador/Mestre-Tramador/compare/v1.0.0...v2.0.0
 [1.0.0]: https://github.com/Mestre-Tramador/Mestre-Tramador/releases/tag/v1.0.0

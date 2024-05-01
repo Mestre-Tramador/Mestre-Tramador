@@ -1,6 +1,6 @@
 ### ¡Sea bienvenido, mi hermano o hermana de código!
 
-Mi nombre es Eduardo de Oliveira Rosa, programador brasileño, en los días antigos
+Mi nombre es Eduardo de Oliveira Rosa, programador brasileño, en los viejos tiempos
 conocido como "Mestre Tramador". La gata en mi hombro es Kyoshi, llamada así en
 homenaje a la [Avatar] del mismo nombre.
 
@@ -19,17 +19,18 @@ homenaje a la [Avatar] del mismo nombre.
 
 #### Sobre mí
 
-Tengo 23 años, actualmente estoy estudiando el curso "Jogos Digitais" en el "[Centro
-Universitário FADERGS]", miembro del Ecosistema Ânima; y trabajando como desarrollador
-de software web en [Plugways Digital], una empresa de software en mi ciudad.
-Siempre estoy investigando formas de mejorar mi código y planeando juegos o ideas
-de proyectos para software, esos que tal vez intente implementar, como ven,
-todavía estoy aprendiendo y descubriendo a mi rumbo.
+Tengo 24 años y finalmente obtuve mi título universitario de "Jogos Digitais" en
+el "[Centro Universitário FADERGS]", miembro del Ecosistema Ânima, que puedes
+consultar [aquí][FADERGS]. Actualmente trabajo como desarrollador en la plataforma
+[Workupy], un futuro hub no code para simplificar la creación de software.
 
-Sobre otros detalles míos, soy un defensor del software libre y de código abierto,
-por lo que todos mis repositorios generalmente vienen con una licencia GNU, y
-en mi tiempo libre juego con la edición de fotos y videos, creando material para
-las campañas de RPG que juego con mis amigos.
+Actualmente estoy realizando dos posgrados en "[CENES]" ("Centro de Estudos de
+Especialização e Extensão"), uno de los cuales es en "Algoritmos e Estruturas
+de Dados" y el otro en "Engenharia de Software".
+
+Investigo constantemente formas de mejorar mis habilidades de codificación y también
+planeo ideas de juegos o proyectos, que tal vez intentaré implementar, como digo,
+todavía estoy tratando de descobrir mi rumbo.
 
 Si quieres hablar conmigo, revisa mis redes sociales abajo! Como se mencionó,
 ¡hablo portugués, español e inglés!
@@ -181,6 +182,8 @@ Si quieres hablar conmigo, revisa mis redes sociales abajo! Como se mencionó,
 ##### Manejador de Paquetes
 
 - [![npm](assets/badges/npm.svg)](https://www.npmjs.com/)
+- [![yarn](assets/badges/yarn.svg)](https://yarnpkg.com/)
+- [![pnpm](assets/badges/pnpm.svg)](https://pnpm.io/)
 - [![Composer](assets/badges/composer.svg)](https://getcomposer.org/)
 <!-- #endregion -->
 
@@ -231,10 +234,22 @@ Si quieres hablar conmigo, revisa mis redes sociales abajo! Como se mencionó,
   Infraestructura
 </summary>
 
+<!-- #region Redes y Entorno -->
+##### Redes y Entorno
+
+- [![Docker](assets/badges/docker.svg)](https://www.docker.com/)
+<!-- #endregion -->
+
 <!-- #region Servidores -->
 ##### Servidores
 
 - [![NGINX](assets/badges/nginx.svg)](https://www.nginx.com/)
+<!-- #endregion -->
+
+<!-- #region Maquinas Virtuales -->
+##### Maquinas Virtuales
+
+- [![VMware](assets/badges/vmware.svg)](https://www.vmware.com/)
 <!-- #endregion -->
 
 </details>
@@ -511,4 +526,6 @@ Si quieres hablar conmigo, revisa mis redes sociales abajo! Como se mencionó,
 [English]: ./README.md
 [Português Brasileiro]: ./README.PT-BR.md
 [Centro Universitário FADERGS]: https://www.fadergs.edu.br/
-[Plugways Digital]: https://www.plugwaysdigital.com.br/
+[FADERGS]: ./data/academics/1-Jogos-Digitais/README.ES.md
+[Workupy]: https://github.com/Workupy
+[CENES]: https://cenes.com.br/

@@ -10,11 +10,14 @@ una explicación completa de cada uno.
 
 Después de leer acerca de los estándares de [Keep a Changelog], inmediatamente
 lo agregué a mis repositorios, con el fin de mejorar la cobertura de mi código.
-Me gusta la siguiente cita del sitio oficial (en inglés):
+Me gusta la siguiente cita de las [propuestas][Keep a Changelog for Who] oficiales
+en el sitio (en inglés):
 
 > \[...] Whether consumers or developers, the end users of software are human beings
 > who care about what's in the software. When the software changes, people want
 > to know why and how.
+
+\**Último acceso en 15/09/2023*
 
 ## CÓDIGO DE CONDUCTA
 
@@ -29,6 +32,8 @@ sino también porque, como [ellos][Contributor Covenant FAQ] dicen (en inglés):
 > people, gay, lesbian, queer, and/or transgender people, people of color, and
 > people of different religious backgrounds should be afforded the same rights
 > and privileges as everyone else.
+
+\**Último acceso en 15/09/2023*
 
 ## PAUTAS DE CONTRIBUCIÓN
 
@@ -48,7 +53,7 @@ licencias, elijo las siguientes como mis principales:
 - [Creative Commons Attribution Share Alike 4.0 International][CC BY-SA 4.0] (en
   inglés) para proyectos de activos;
 
-**Otros proyectos míos pueden tener otras licencias, pero son minoritarios*.
+\**Otros proyectos míos pueden tener otras licencias, pero son minoritarios*.
 
 ## POLITICA DE SEGURIDAD
 
@@ -84,6 +89,7 @@ en [este][CV] repositorio.
 [English]: README.md
 [Português Brasileiro]: README.PT-BR.md
 [Keep a Changelog]: https://keepachangelog.com/en/1.1.0/
+[Keep a Changelog for Who]: https://keepachangelog.com/en/1.1.0/#who
 [Contributor Covenant]: https://www.contributor-covenant.org/
 [Contributor Covenant FAQ]: https://www.contributor-covenant.org/faq#doesnt-this-code-of-conduct-just-promote-political-correctness
 [SECURITY POLICY]: #politica-de-seguridad

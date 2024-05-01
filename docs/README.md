@@ -9,11 +9,13 @@ with slightly adaptations in some. Below is a full explanation of each one.
 
 After I read about the [Keep a Changelog] standards, I immediately added it to
 my repositories, in order to improve the coverage of my code. I like the below
-quote from the official site:
+quote from the official [proposals][Keep a Changelog for Who] on their site:
 
 > \[...] Whether consumers or developers, the end users of software are human beings
 > who care about what's in the software. When the software changes, people want
 > to know why and how.
+
+\**Last access at 09/15/2023*
 
 ## CODE OF CONDUCT
 
@@ -28,6 +30,8 @@ because, as [they][Contributor Covenant FAQ] say:
 > people, gay, lesbian, queer, and/or transgender people, people of color, and
 > people of different religious backgrounds should be afforded the same rights
 > and privileges as everyone else.
+
+\**Last access at 09/15/2023*
 
 ## CONTRIBUTION GUIDELINES
 
@@ -46,7 +50,7 @@ as my main:
 - [Creative Commons Attribution Share Alike 4.0 International][CC BY-SA 4.0] for
   assets projects;
 
-**Other projects of mine may have other licenses, but they are a minority*.
+\**Other projects of mine may have other licenses, but they are a minority*.
 
 ## SECURITY POLICY
 
@@ -72,7 +76,7 @@ I currently use, for Issue Templates, the following types:
 
 The usage of them vary on the repository.
 
-**I currently did not implemented any Pull Request Templates*.
+\**I currently did not implemented any Pull Request Templates*.
 
 GitHub also offers the [GitHub Pages] service, basically allowing to create static
 pages for the repositories. I'm currently working on my first in [this][CV] repository.
@@ -80,6 +84,7 @@ pages for the repositories. I'm currently working on my first in [this][CV] repo
 [Español]: README.ES.md
 [Português Brasileiro]: README.PT-BR.md
 [Keep a Changelog]: https://keepachangelog.com/en/1.1.0/
+[Keep a Changelog for Who]: https://keepachangelog.com/en/1.1.0/#who
 [Contributor Covenant]: https://www.contributor-covenant.org/
 [Contributor Covenant FAQ]: https://www.contributor-covenant.org/faq#doesnt-this-code-of-conduct-just-promote-political-correctness
 [SECURITY POLICY]: #security-policy
