@@ -465,7 +465,7 @@ by what interest you.
   government public data APIs and Chat GPT.
 
   Other projects in the same period included an audio-guided tour e-commerce on a PHP PWA; a React Native
-  cross-platform mobile app which generated property inspect PDF reports with a imbedded photo editor;
+  cross-platform mobile app which generated property inspections PDF reports with a imbedded photo editor;
   and finally I gave support on some Java applications. All of these projects were versioned in Git
   and released under Extreme Programming (XP) agile method.
 

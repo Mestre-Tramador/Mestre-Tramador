@@ -1,0 +1,39 @@
+name: Docs Revision
+description: Documentation needs revision on specific parts.
+title: "[DOCS]: "
+labels: ["Type: Docs Revision", "Status: Opened"]
+assignees:
+  - Mestre-Tramador
+body:
+  - type: dropdown
+    id: revision_type
+    attributes:
+      label: Revision Type
+      description: Inform the type of revision that shall be made.
+      options:
+        - Misspelling and/or Gramatical errors
+        - Missing and/or Broken Links
+        - Verification of Incorrect Content
+        - Removal of Forbidden Content
+    validations:
+      required: true
+  - type: textarea
+    id: revision
+    attributes:
+      label: Revision
+      description: >
+        According to the selected type, please concisely explain
+        the error found and its need for revision.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: ---
+  - type: checkboxes
+    id: no_duplicates
+    attributes:
+      label: Confirmation of No Duplicates
+      description: Please make a Docs Revision only if none equal was made, or else go check the existing one.
+      options:
+        - label: I have searched the existing issues and not found any equal.
+          required: true

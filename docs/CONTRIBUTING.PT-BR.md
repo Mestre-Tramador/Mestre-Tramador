@@ -1,43 +1,26 @@
 # Diretrizes de Contribuição
 
-Devo agradecer por querer contribuir neste repositório, pelo menos em primeiramente!
-Agora, considerando quão pequenas são as mudanças a serem feitas aqui, listei abaixo
-as maneiras pelas quais você pode contribuir com meu perfil pessoal:
-
-- **[Revisão de Documentação]**
-- **[Conversando]**
-- **[Pull Requests]**
-- **[Outras Contribuições]**
+Quero agradecer por querer contribuir neste repositório, pelo menos em primeiro lugar! Bem, considerando
+que você está dedicando seu tempo para contribuir com arquivos de meu perfil pessoal, existem algumas
+maneiras de fazer isso, mesmo que sejam pequenas alterações, que você pode conferir abaixo:
 
 ## Revisão de Documentação
 
-Se você encontrar algum erro nos arquivos, como erros ortográficos de palavras ou
-versões mais recentes de arquivos como o Código de Conduta, envie uma Issue de
-Revisão de Documentação. Você pode fazer isso diretamente na guia Issues ou clicando
-[aqui][Revisão de Docs].
-
-## Conversando
-
-Talvez haja uma coisa particular que você queira perguntar ou algo que queira me
-dizer, de qualquer forma, eu sempre recebo um irmão ou irmã de código para uma conversa!
-Você pode, claro, verificar minhas Redes Sociais [aqui][Redes Sociais].
+Este é um repositório de documentação puro, mas às vezes podem ocorrer erros de ortografia ou a atualização
+de alguns documentos copiados e colados, qualquer coisa assim exigiria uma revisão. Com isso em mente,
+consolidei a Issue do GitHub para isso, que você pode enviar clicando [aqui][issue]. Lembre-se de que
+também uso [este][.github] repositório para armazenar alguns dos arquivos mais "comunitários", então,
+por favor, envie uma issue para lá, se necessário.
 
 ## Pull Requests
 
-Em primeira mão: **Atualmente todos as Pull Requests serão rejeitadas neste
-repositório**. O motivo é simples, estou pesquisando e fazendo alguns testes sobre
-como implementar as Templates de Pull Requests do GitHub. Depois disso, permitirei
-apenas PRs que alterem arquivos na pasta `docs/`.
+Em primeira mão: **Atualmente, todas as pull requests serão rejeitadas neste repositório**. O motivo
+é simples: estou pesquisando e fazendo alguns testes sobre como implementar os Templates de Pull Requests
+do GitHub. Depois disso, permitirei apenas pull requests que alterem arquivos na pasta `docs/`.
 
-## Outras Contribuições
-
-Além das contribuições acima mencionadas, você pode contribuir para o meu trabalho
-acessando meus outros repositórios e buscando mais informações sobre. Não há muito
-mais a ser feito aqui, pelo que eu sei...
-
-[Revisão de Documentação]: #revisão-de-documentação
-[Revisão de Docs]: https://github.com/Mestre-Tramador/Mestre-Tramador/issues/new?assignees=Mestre-Tramador&labels=Type%3A+Docs+Revision%2CStatus%3A+Opened&template=DOCS-REVISION.PT-BR.yml&title=%5BDOCS%5D%3A+
-[Conversando]: #conversando
-[Redes Sociais]: https://github.com/Mestre-Tramador/Mestre-Tramador/blob/main/README.PT-BR.md#redes-sociais
-[Pull Requests]: #pull-requests
-[Outras Contribuições]: #outras-contribuições
+<!--                               POR QUE AS REFERÊNCIAS EM INGLÊS?                                -->
+<!-- Você notará que as referências abaixo estão em inglês.                                         -->
+<!-- Foi feito assim para que seja possível identificar facilmente os hiperlinks exatos entre todos -->
+<!-- os idiomas.                                                                                    -->
+[issue]: https://github.com/Mestre-Tramador/Mestre-Tramador/issues/new?assignees=Mestre-Tramador&labels=Type%3A+Docs+Revision%2CStatus%3A+Opened&template=DOCS-REVISION.yaml&title=%5BDOCS%5D%3A+
+[.github]: https://github.com/Mestre-Tramador/.github

@@ -1,0 +1,2 @@
+# These Markdown files doesn't need to be counted for Linguist
+*.md -linguist-detectable linguist-documentation
